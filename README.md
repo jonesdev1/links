@@ -1,6 +1,7 @@
 Project #1
 
 https://obi2.kean.edu/~jonesdev@kean.edu/TECH3500/projectone.html
+
 Description: A professional website for professional use that allows viewer to see you from a professional standpoint.
 
 Project #2
